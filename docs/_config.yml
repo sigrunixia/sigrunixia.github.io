@@ -1,5 +1,6 @@
-title: Testy
-description: Testy
+title: Change I say
+description: A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within Obsidian.
+markdown: GFM
 theme: just-the-docs
 plugins:
   - jekyll-default-layout

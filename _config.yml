@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-default-layout
+  
+title: Testy
+description: Testy
+theme: just-the-docs
+
+url: https://sigrunixia.github.io/Testy
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/valentine195/Testy

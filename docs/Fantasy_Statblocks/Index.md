@@ -12,8 +12,6 @@ Fantasy Statblocks makes up a small part of the Valantasy System
 ![Ancient Black Dragon Statblock for 5E](_attachments/5e-ancient-black-dragon.png)
 <i><sup>Dungeons & Dragons, 5th Edition Statblock in Fantasy Statblocks</sup></i>
 
-
-
 ## Requirements
 
 To gain the full utilization of Fantasy Statblocks, you will need the following additional Community Plugins.

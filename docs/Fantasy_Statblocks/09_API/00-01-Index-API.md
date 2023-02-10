@@ -1,6 +1,6 @@
 ---
 has_children: true
 layout: default
-nav_order: 1
-title: API Details - Fantasy Statblocks
+nav_order: 9
+title: API
 ---

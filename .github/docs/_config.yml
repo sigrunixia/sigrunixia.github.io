@@ -4,11 +4,19 @@ theme: just-the-docs
 plugins:
   - jekyll-default-layout
   - jekyll-seo-tag
+  - jekyll-relative-links
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs
 
 url: https://sigrunixia.github.io
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # Aux links for the upper right navigation
 aux_links:

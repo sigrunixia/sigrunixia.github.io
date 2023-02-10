@@ -16,5 +16,6 @@ vendor/
 # Ignore IDE's
 .vscode
 .idea
-.DS_Store
+.DS_Storem
 /node_modules/
+.DS_Store

@@ -5,7 +5,6 @@ theme: just-the-docs
 url: https://sigrunixia.github.io
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
 color_scheme: light
 
 # Aux links for the upper right navigation

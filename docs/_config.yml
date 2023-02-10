@@ -1,14 +1,12 @@
 title: Change I say
 description: A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within Obsidian.
+# Build settings
+remote_theme: pmarsceill/just-the-docs
 markdown: GFM
-theme: just-the-docs
 plugins:
   - jekyll-default-layout
   - jekyll-seo-tag
   - jekyll-relative-links
-
-# Build settings
-remote_theme: pmarsceill/just-the-docs
 
 url: https://sigrunixia.github.io
 

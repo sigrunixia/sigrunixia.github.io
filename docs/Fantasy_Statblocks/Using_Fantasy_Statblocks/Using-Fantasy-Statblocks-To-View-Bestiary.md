@@ -1,4 +1,4 @@
-# Using Fantasy Statblocks To View The Bestiary
+# Viewing The Bestiary
 
 To use Fantasy Statblocks to render the bestiary data, the statblock is accessed in one of two ways. 
 

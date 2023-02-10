@@ -1,8 +1,9 @@
 ---
 has_children: true
+has_toc: true
 layout: default
 nav_order: 8
-permalink: /common_troubleshooting/
+permalink: /:path/:basename
 title: Common Troubleshooting
 ---
 

@@ -1,5 +1,5 @@
 ---
-has_children: true
+has_children: false
 layout: default
 nav_order: 1
 title: Installing Fantasy Statblocks

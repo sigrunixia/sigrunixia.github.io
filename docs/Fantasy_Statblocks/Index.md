@@ -5,20 +5,22 @@ nav_order: 1
 ---
 
 # Fantasy Statblocks
-*A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within [Obsidian.md](https://obsidian.md).
+*A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within [Obsidian.md](https://obsidian.md).*
 
 Fantasy Statblocks makes up a small part of the Valantasy System
 
-<center><img alt="Ancient Black Dragon Statblock for 5E" src="_attachments/5e-ancient-black-dragon.png" title="Ancient Black Dragon Statblock for 5E"/>
+![Ancient Black Dragon in 5e Statblock](./_attachments/5e-ancient-black-dragon.png)
+{: .v-align-middle}
+Dungeons & Dragons, 5th Edition Statblock in Fantasy Statblocks
+{: .v-align-middle}
 
-<i><sup>Dungeons & Dragons, 5th Edition Statblock in Fantasy Statblocks</sup></i></center>
 
 ## Minimum Requirements
 
 %% versiontag %%
 
-Obsidian Version: 1.12
-Obsidian Installer Version: v1.1.9
+**Obsidian Version**: 1.12
+**Obsidian Installer Version**: v1.1.9
 
 You can locate your installer version within Obsidian. First click the Help Menu item, followed by Show Debug Menu. 
 

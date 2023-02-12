@@ -2,7 +2,7 @@ title: Change I say
 description: A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within Obsidian.
 # Build settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0
-markdown: GFM
+markdown: Kramdown
 plugins:
   - jekyll-default-layout
   - jekyll-seo-tag
@@ -84,6 +84,10 @@ callouts:
   warning:
     title: Warning
     color: red
+  coming:
+    title: Coming Soon
+    color: pink
+    opacity: 0.3
 
 mermaid:
   # Version of mermaid library

@@ -10,11 +10,14 @@ title: Getting Started
 
 
 
+
+
 ## Requirements
 
 To gain the full utilization of Fantasy Statblocks, you will need the following additional Community Plugins.
 
-> [Fantasy Bestiary](https://github.com/valentine195/fantasy-bestiary): which stores the raw bestiary data for the Statblocks after they have been imported or created.  {: .new }
+{: .coming}
+> [Fantasy Bestiary](https://github.com/valentine195/fantasy-bestiary): which stores the raw bestiary data for the Statblocks after they have been imported or created.
 
 
 

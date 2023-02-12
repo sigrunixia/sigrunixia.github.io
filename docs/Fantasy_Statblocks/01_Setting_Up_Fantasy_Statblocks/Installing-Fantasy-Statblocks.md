@@ -12,35 +12,23 @@ title: Installing Fantasy Statblocks
 ## Option 1: Community Plugins
 From Obsidian **v0.9.8**, you can able to install from the *Community Plugins Menu* by completing the following.
 
-1. Step 1
-
-Open your **Obsidian Settings**.
+***Step 1***. Open your **Obsidian Settings**.
 
 > If you are unsure how to access Obsidian Settings, check out these instructions by the [Obsidian Documentation Team](https://help.obsidian.md/How+to/Change+settings).
 
-2. Step 2
 
-Navigate to **Community Plugins** on the left side of the settings menu and select it.
+***Step 2***. Navigate to **Community Plugins** on the left side of the settings menu and select it.
 
-3. Step 3
 
-Navigate to the 
-Browse 
-{: .label .label-purple }
-button on the right side of the settings menu, and select it.
+***Step 3***. Navigate to the Browse {: .label .label-purple } button on the right side of the settings menu, and select it.
 
-> If **Restricted Mode** is enabled, you may be prompted to 
-Turn on Community Plugins 
-{: .label .label-purple }
-first. 
+If **Restricted Mode** is enabled, you may be prompted to Turn on Community Plugins {: .label .label-purple } first. 
 
-4. Step 4
 
-Search for "Fantasy Statblocks" in the **Search Bar** up top.
+***Step 4***. Search for "Fantasy Statblocks" in the **Search Bar** up top.
 
-5. Step 5
 
-Select the "Fantasy Statblocks" search result, and select **Install**. 
+***Step 5***. Select the "Fantasy Statblocks" search result, and select **Install**. 
 
 6. Step 6
 
@@ -72,6 +60,7 @@ You may download this as a .zip, a tar.gz, or download the *main.js*, *manifest.
 ***
 
 > On some machines, the `.obsidian` folder may be hidden. 
+>
 > **MacOS**:
 >
 > You can make the folder appear in the Finder window by pressing the `Command + Shift + Dot` keys.
@@ -86,6 +75,7 @@ You may download this as a .zip, a tar.gz, or download the *main.js*, *manifest.
 >
 > 4.  The `.obsidian` folder should now be visible in the File Explorer.
 {: .warning}
+
 
 3. Step 3-a. *I downloaded a .zip or a .tar.gz.*
 

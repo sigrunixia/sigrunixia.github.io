@@ -152,5 +152,14 @@ Enable the Plugin.
 
 1. Step 1.
 
-Copy this link. 
+Copy this link.  `https://github.com/valentine195/obsidian-5e-statblocks`
 
+2. Step 2
+
+Open **Obsidian42 - Brat** Settings. 
+
+3. Step 3. 
+
+Underneath the **Beta Plugin List** option, select 
+Add Beta Plugin 
+{: .tip }.

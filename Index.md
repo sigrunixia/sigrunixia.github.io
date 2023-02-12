@@ -1,7 +1,10 @@
 ---
-layout: home
+has_children: false
+has_toc: false
+layout: default
+nav_order: 1
 permalink: /index
-title: Fantasy Statblocks
+title: Home
 ---
 
 # Fantasy Statblocks

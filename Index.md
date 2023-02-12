@@ -11,7 +11,7 @@ title: Home
 
 *A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within [Obsidian.md](https://obsidian.md).*
 
-Fantasy Statblocks makes up a small part of the Fantasy System
+Fantasy Statblocks is a small, but mighty, part of the Fantasy System
 
 ![](Fantasy_Statblocks/_attachments/5e-ancient-black-dragon.png)
 {: .v-align-middle}

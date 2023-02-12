@@ -117,7 +117,7 @@ Fantasy_Statblocks:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
-   callbacks:
+  callbacks:
       # Javascript Callbacks
       name: Callbacks
       nav_fold: true

@@ -8,11 +8,15 @@ title: Getting Started
 
 # Getting Started with Fantasy Statblocks
 
+## Minimum Requirements
 
+%% versiontag %%
 
+**Obsidian Version**: 1.12
 
+**Obsidian Installer Version**: v1.1.9
 
-## Requirements
+You can locate your installer version within Obsidian. First click the Help Menu item, followed by Show Debug Menu.
 
 To gain the full utilization of Fantasy Statblocks, you will need the following additional Community Plugins.
 

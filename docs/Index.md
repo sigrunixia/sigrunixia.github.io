@@ -1,19 +1,40 @@
 ---
-title: Home
-layout: home
-nav order: 1
+title: Fantasy Statblocks
+layout: default
 ---
 
+# Fantasy Statblocks
+*A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within [Obsidian.md](https://obsidian.md).*
 
-# Javalant's Plugins
+Fantasy Statblocks makes up a small part of the Valantasy System
 
-Welcome to Javalant's Plugins for **[Obsidian.md](https://obsidian.md)**. You know 'em, you love 'em, now here is how to use them. 
+![](Fantasy_Statblocks/_attachments/5e-ancient-black-dragon.png)
+{: .v-align-middle}
+Dungeons & Dragons, 5th Edition Statblock in Fantasy Statblocks
+{: .v-align-middle}
 
 
+## Minimum Requirements
 
-## The Valantasy System
+[#installer]: # (Tag #Installer when you need to determine if an updated installer is needed. )
 
-A word from documentation writer, @Sigrunixia...
+**Obsidian Version**: 1.12
+{: .label .label-green }
+**Obsidian Installer Version**: v1.1.9
+{: .label .label-purple }
 
-> Many plugin's have been created within the Valantasy System Framework and are oriented towards the Table Top Roleplaying community of Obsidian. Designed to work great independently, but excel when combined with their Valantasy counterparts, these plugins are the staple and foundation for much of the table-top community growth within Obsidian. This community would not have gotten here today were it not for the efforts of Javalant, and so this documentation hub is our thank you.
 
+You can locate your installer version within Obsidian. 
+
+First, select the **Help Menu** item
+
+Then, select the **Show Debug Menu** item. 
+
+## Optimal Requirements
+To gain the best experience of Fantasy Statblocks, you will need the following additional Community Plugins.
+
+- [Dice Roller](https://github.com/valentine195/obsidian-dice-roller): A plugin which adds the ability to render complicated dice functions within Obsidian. Within the Valantasy Statblocks, certain damage, healing, and modifiers become clickable dice.
+- [Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker): A plugin which tracks initiatives and the status of the enemies and players during an encounter, and supports pulling the enemy database from the Fantasy system. 
+
+> [Fantasy Bestiary](https://github.com/valentine195/fantasy-bestiary): which stores the raw bestiary data for the Statblocks after they have been imported or created.  
+{: .coming }

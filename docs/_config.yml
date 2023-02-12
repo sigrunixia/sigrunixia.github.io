@@ -1,4 +1,4 @@
-title: Change I say
+title: Fantasy Statblocks
 description: A Table Top Roleplaying Plugin to Access the Create and Manage your Statblock Layouts within Obsidian.
 # Build settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0
@@ -19,9 +19,9 @@ back_to_top_text: "Back to top"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Fantasy Statblocks":
+  "Fantasy Statblocks at Github":
     - "//github.com/valentine195/obsidian-5e-statblocks"
-  "Javalant's Plugins":
+  "Javalent's Plugins":
     - "//plugins.javalent.com"
 
 # Makes Aux links open in a new tab. Default is false
@@ -101,7 +101,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-just_the_docs:
+Fantasy_Statblocks:
   # Define which collections are used in Fantasy Statblocks
   collections:
     # Reference the "tests" collection
@@ -117,7 +117,10 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
-
+   callbacks:
+      # Javascript Callbacks
+      name: Callbacks
+      nav_fold: true
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:

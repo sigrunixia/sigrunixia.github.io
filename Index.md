@@ -13,7 +13,7 @@ title: Home
 
 Fantasy Statblocks is a small, but mighty, part of the Fantasy System
 
-![](Fantasy_Statblocks/_attachments/5e-ancient-black-dragon.png)
+![](docs/Fantasy_Statblocks/_attachments/5e-ancient-black-dragon.png)
 {: .v-align-middle}
 Dungeons & Dragons, 5th Edition Statblock in Fantasy Statblocks
 {: .v-align-middle}

@@ -7,4 +7,6 @@ permalink: /:path/:basename
 title: Plugin Settings
 ---
 
-# The Plugin Settings Page
+# Plugin Settings
+
+Placeholder

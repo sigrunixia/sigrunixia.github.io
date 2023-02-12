@@ -1,6 +1,6 @@
 ---
 title: Fantasy Statblocks
-layout: default
+layout: home
 ---
 
 # Fantasy Statblocks

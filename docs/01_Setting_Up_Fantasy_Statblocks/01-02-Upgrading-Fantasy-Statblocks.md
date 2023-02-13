@@ -28,6 +28,5 @@ title: Upgrading Fantasy Statblocks
 **Step 7**. Reload Obsidian.
 
 > Congratulations. You have now updated Fantasy Statblocks. 
-> We recommend checking out the Changelog for updates. 
+> We recommend checking out the [Changelog](../Changelog.md) for updates. 
 {: .highlight }
-

@@ -92,8 +92,8 @@ plugin.
 >
 > Make sure safe mode is off, and enable the plugin from there.
 
-Congratulations. You have installed the plugin from GitHub!
-{: .bg-yellow-300}
+> Congratulations. You have installed the plugin from GitHub!
+{: .highlight }
 
 ## Option 3: BRAT Installation (Beta-Testers Only)
 
@@ -132,4 +132,5 @@ that you may need to enable the plugin from Community Plugins.
 
 ***Step 6***. Check the Community Plugins page to ensure that Fantasy Statblocks is enabled.
 
-Congratulations, you now have the Beta version of Fantasy Statblocks.
+> Congratulations, you now have the Beta version of Fantasy Statblocks. Please report any Beta Issues at the [Repository](https://github.com/valentine195/obsidian-5e-statblocks/issues/new).
+{: .highlight }

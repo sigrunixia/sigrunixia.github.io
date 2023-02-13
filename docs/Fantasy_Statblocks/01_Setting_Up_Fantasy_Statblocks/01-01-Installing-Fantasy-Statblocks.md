@@ -34,7 +34,7 @@ If **Restricted Mode** is enabled, you may be prompted to Turn on Community Plug
 the [Statblock Plugin Settings](01-04-00-Statblock-Plugin-Settings.md) or **Close the Settings Menu**.
 
 > Congratulations! You have succeeded in installing Fantasy Statblocks through the Obsidian Community Plugins Menu.
-> {: .bg-yellow-300}
+{: .highlight }
 
 ## Option 2: Manual Installation From GitHub
 

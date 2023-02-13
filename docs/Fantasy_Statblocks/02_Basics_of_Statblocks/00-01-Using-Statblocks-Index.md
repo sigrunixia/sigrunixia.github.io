@@ -9,7 +9,7 @@ title: "The Basics of Fantasy Statblocks"
 
 # Using Fantasy Statblocks
 
-The majority of your interactions with Fantasy Statblocks will start and end with this piece of code block language:
+The majority of your interactions with Fantasy Statblocks will start and end with this piece of code block language.
 
 ````yaml
 ```statblock
@@ -17,19 +17,10 @@ monster:
 ```
 ````
 
-Within statblock, 
+The programming code syntax used within Statblocks is YAML. YAML is defined as "human-friendly data serialization language for all programming languages" by [yaml.org](https://yaml.org), and it is a very powerful syntax used in multiple areas of Obsidian. 
 
+However, it's syntax is very strict and you will need to pay attention to the spacing, the indentation, the quotations, and the colons in this section carefully, or you may receive errors.
 
-All fields are optional - if not provided, that Statblock will simply not render them.
+The good news is that because it is designed to be human readable, the errors are easy to catch by a fellow human, or even a helpful [yaml linter](https://www.yamllint.com).
 
-The monster field may be combined with other fields to override the field. See Overriding Fields.
-
-The spellcasting trait requires a special field (spells) - See Spellcasting
-
-⚠️ YAML Syntax
-
-Please note that the parameters provided in the statblock are parsed as yaml.
-
-YAML is incredibly powerful, but you must pay attention to your syntax or you may get errors!
-
-Common errors include: not putting quotes around parameters with : or * (such as Melee Weapon Attack:) and not indenting properly.
+Without further ado, let's get exploring Statblocks. 

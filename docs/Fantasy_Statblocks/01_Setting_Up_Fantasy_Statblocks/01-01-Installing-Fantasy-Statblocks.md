@@ -11,15 +11,16 @@ title: Installing Fantasy Statblocks
 
 ## Option 1: Community Plugins
 
-From Obsidian **v0.9.8**, you can able to install from the *Community Plugins Menu* by completing the following.
+From Obsidian **v0.9.8**, you can install from the *Community Plugins Menu* by completing the following.
 
 ***Step 1***. Open your **Obsidian Settings**.
 
-> If you are unsure how to access Obsidian Settings, check out these instructions by the [Obsidian Documentation Team](https://help.obsidian.md/How+to/Change+settings).
+> If you are unsure how to access Obsidian Settings, check out these instructions by
+> the [Obsidian Documentation Team](https://help.obsidian.md/How+to/Change+settings).
 
 ***Step 2***. Navigate to **Community Plugins** on the left side of the settings menu and select it.
 
-***Step 3***. Navigate to the Browse {: .label .label-purple } button on the right side of the settings menu, and select it.
+***Step 3***. Navigate to the Browse button on the right side of the settings menu, and select it.
 
 If **Restricted Mode** is enabled, you may be prompted to Turn on Community Plugins {: .label .label-purple } first.
 
@@ -27,35 +28,33 @@ If **Restricted Mode** is enabled, you may be prompted to Turn on Community Plug
 
 ***Step 5***. Select the "Fantasy Statblocks" search result, and select **Install**.
 
-1. Step 6
+***Step 6***. Once the plugin has installed, the installation button will change to **Enable**.
 
-Once the plugin has installed, the install button will change to **Enable**.
+***Step 7***. When ready, select **Enable** and either view
+the [Statblock Plugin Settings](01-04-00-Statblock-Plugin-Settings.md) or **Close the Settings Menu**.
 
-1. Step 7.
+> Congratulations! You have succeeded in installing Fantasy Statblocks through the Obsidian Community Plugins Menu.
+> {: .bg-yellow-300}
 
-When ready, select **Enable** and either [View the Fantasy Statblock Settings](Statblock-Plugin-Settings.md) or **Close the Settings Menu**.
+## Option 2: Manual Installation From GitHub
 
-You have succeeded in installing Fantasy Statblocks through the Obsidian Community Plugins Menu.
+If you do not wish to, or are unable, to use the Community Plugins Menu from within Obsidian, you are also able to
+install Fantasy Statblocks manually.
 
-## Option 2: Manual Installation From Github
+The latest release is always available at the Fantasy
+Statblocks [Releases](https://github.com/valentine195/obsidian-5e-statblocks/releases) page.
 
-If you do not wish to, or are unable, to use the Community Plugins Menu from within Obsidian, you are also able to install Fantasy Statblocks manually.
+***Step 1***. Navigate to the Fantasy
+Statblocks [Releases](https://github.com/valentine195/obsidian-5e-statblocks/releases) page.
 
-The latest release is always available at the Fantasy Statblocks [Releases](https://github.com/valentine195/obsidian-5e-statblocks/releases) page.
+***Step 2***. Download the most recent release.
 
-1. Step 1.
-
-Navigate to the Fantasy Statblocks [Releases](https://github.com/valentine195/obsidian-5e-statblocks/releases) page.
-
-1. Step 2.
-
-Download the most recent release.
-
-You may download this as a .zip, a tar.gz, or download the *main.js*, *manifest.json*, and *styles.css* individually.
+> You may download this as a **.zip**, a **.tar.gz**, or download the *main.js*, *manifest.json*, and *styles.css*
+> individually.
 
 ***
 
-> On some machines, the `.obsidian` folder may be hidden.
+> On some machines, the`.obsidian`folder may be hidden.
 >
 > **MacOS**:
 >
@@ -63,86 +62,74 @@ You may download this as a .zip, a tar.gz, or download the *main.js*, *manifest.
 >
 > **Windows 11**:
 >
-> 1.  Open File Explorer
+> 1. Open File Explorer
 >
-> 2.  Click on the "View" tab on the top navigation bar
+> 2. Click on the "View" tab on the top navigation bar
 >
-> 3.  Check the "Hidden items" checkbox under "Hidden files and folders"
+> 3. Check the "Hidden items" checkbox under "Hidden files and folders"
 >
-> 4.  The `.obsidian` folder should now be visible in the File Explorer.
-{: .warning}
+> 4. The `.obsidian` folder should now be visible in the File Explorer.
+     {: .warning}
 
-1. Step 3-a. *I downloaded a .zip or a .tar.gz.*
+***Step 3-A***. *I downloaded a **.zip** or a **.tar.gz**.*
 
-Once downloaded, extract the files.
+> Once downloaded, extract the files.
+>
+> Place the files within your `<vault>/.obsidian/plugins/` folder.
 
-Place the files within your `<vault>/.obsidian/plugins/` folder.
+***Step 3-B***. *I downloaded the files individually.*
 
-1. Step 3-b. *I downloaded the files individually.*
+> Create a folder within `<vault>/.obsidian/plugins/` named Fantasy-Statblocks.
+>
+> Place the files you downloaded within this new folder.
 
-Create a folder within `<vault>/.obsidian/plugins/` named Fantasy-Statblocks.
+***Step 4***. Reload Obsidian.
 
-Place the files you downloaded within this new folder.
+***Step 5***. If prompted about Safe Mode and trusting the plugin author, you can disable safe mode and enable the
+plugin.
 
-1. Step 4.
+> Alternatively, head to Obsidian Settings and then to Community Plugins.
+>
+> Make sure safe mode is off, and enable the plugin from there.
 
-Reload Obsidian.
-
-1. Step 5.
-
-If prompted about Safe Mode and trusting the plugin author, you can disable safe mode and enable the plugin.
-
-Alternatively,  head to Obsidian Settings and then to Community Plugins.
-
-Make sure safe mode is off, and enable the plugin from there.
+Congratulations. You have installed the plugin from GitHub!
+{: .bg-yellow-300}
 
 ## Option 3: BRAT Installation (Beta-Testers Only)
 
-### Installing BRAT
+### Installing the BRAT Plugin
 
-1. Step 1.
+***Step 1***. Open your **Obsidian Settings**.
 
-Open your **Obsidian Settings**.
+***Step 2***. Navigate to **Community Plugins** on the left side of the settings menu and select it.
 
-1. Step 2.
+***Step 3***. Navigate to the **Browse** button on the right side of the settings menu, and select it.
 
-Navigate to **Community Plugins** on the left side of the settings menu and select it.
+***Step 4***. Search for "BRAT" in the **Search Bar** up top.
 
-1. Step 3
+***Step 5***. Select the "Obsidian42 - BRAT" search result, and select **Install**.
 
-Navigate to the
-Browse
-{: .label .label-purple }
-button on the right side of the settings menu, and select it.
+***Step 6***. Once the plugin has installed, the install button will change to **Enable**.
 
-1. Step 4.
-
-Search for "BRAT" in the **Search Bar** up top.
-
-1. Step 5.
-
-Select the "Obsidian42 - BRAT" search result, and select **Install**.
-
-1. Step 6
-
-Once the plugin has installed, the install button will change to **Enable**.
-
-1. Step 7.
-
-Enable the Plugin.
+***Step 7***. Enable the Plugin.
 
 ### Adding Fantasy Statblocks to BRAT
 
-1. Step 1.
+***Step 1***. Copy this link.  `https://github.com/valentine195/obsidian-5e-statblocks`
 
-Copy this link.  `https://github.com/valentine195/obsidian-5e-statblocks`
+***Step 2***. Open **Obsidian42 - Brat** Settings.
 
-1. Step 2
+***Step 3***. Underneath the *Beta Plugin List* option, select **Add Beta Plugin**.
 
-Open **Obsidian42 - Brat** Settings.
+***Step 4***. A new window will pop up asking for the GitHub repository for the Beta Plugin.
 
-1. Step 3.
+> Paste the link that you copied from Step 1.
 
-Underneath the **Beta Plugin List** option, select
-Add Beta Plugin
-{: .tip }.
+> Select **Add Plugin**.
+
+***Step 5***. The pop-up window will close, and you will receive a notification that states installation complete, and
+that you may need to enable the plugin from Community Plugins.
+
+***Step 6***. Check the Community Plugins page to ensure that Fantasy Statblocks is enabled.
+
+Congratulations, you now have the Beta version of Fantasy Statblocks.

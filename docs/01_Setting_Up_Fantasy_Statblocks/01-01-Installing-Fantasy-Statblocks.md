@@ -31,7 +31,7 @@ If **Restricted Mode** is enabled, you may be prompted to Turn on Community Plug
 ***Step 6***. Once the plugin has installed, the installation button will change to **Enable**.
 
 ***Step 7***. When ready, select **Enable** and either view
-the [Statblock Plugin Settings](01-04-00-Statblock-Plugin-Settings.md) or **Close the Settings Menu**.
+the [Statblock Plugin Settings](docs/01_Setting_Up_Fantasy_Statblocks/01-04-00-Statblock-Plugin-Settings.md) or **Close the Settings Menu**.
 
 > Congratulations! You have succeeded in installing Fantasy Statblocks through the Obsidian Community Plugins Menu.
 {: .highlight }

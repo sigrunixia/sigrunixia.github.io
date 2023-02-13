@@ -8,7 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
 
-url: https://sigrunixia.github.io
+url: plugins.javalent.com/obsidian-5e-statblocks/
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light

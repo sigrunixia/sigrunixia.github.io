@@ -12,10 +12,30 @@ vendor/
 # Ignore Obsidian Files
 .obsidian
 
-
 # Ignore IDE's
 .vscode
 .idea
+*.iml
+
+# Desktop Files
 .DS_Storem
-/node_modules/
 .DS_Store
+
+# npm
+node_modules
+
+# Build
+main.js
+styles.css
+*.js.map
+*build.js
+*dev.js
+src/converted-bestiary.json
+src/convert-spells.js
+src/convert.js
+src/importers/*.xml
+src/importers/*.json
+*.dev.*
+
+.env
+data.json

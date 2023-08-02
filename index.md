@@ -6,7 +6,7 @@ title: Rebbecca Bishop's CV
 Curious. Creative. Critical Thinker.
 
 <div id="webaddress">
-<a href="rebbeccabishop@icloud.com">rebbeccabishoP@icloud.com</a>
+<a href="rebbeccabishop@icloud.com">rebbeccabishop@icloud.com</a>
 | <a href="https://tenebrousdragon.com/home">My Personal Obsidian Webpage</a>
 </div>
 

@@ -1,0 +1,8 @@
+{
+  "name": "Rebbecca Bishop's CV",
+  "version": "0.1.0",
+  "dependencies": {
+    "prettier": "latest",
+    "stylelint": "latest"
+  }
+}

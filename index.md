@@ -12,13 +12,15 @@ Curious. Creative. Critical Thinker.
 
 ## Now
 
+- Beginning to re-enter the workforce after taking time away to finish my Bachelor's degree.
 - Learning CSS and Javascript, with a side hobby of Photography and Table Top Roleplaying Games.
 - Catching up on many whitepapers and articles on the topics of my research interests.
 
-### Specialized in
+## Specialized in
 
+Research, Engagement, Documentation and Communication
 
-### Research interests
+## Research interests
 
 - The mechanisms of labeling and othering within a society with a focus on Monster Theory and Gender Studies.
 - Conservation of plants and animals, with a focus on the impact of human activity on the environment.
@@ -55,30 +57,6 @@ Summa Cum Laudem, *Ashdown College of Health Science*, Redlands, CA
 
 `2011`
 Magna Cum Laudem, *Everest College*, Ontario, CA
-
-%%
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-%%
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-%%
 
 ## Occupation
 

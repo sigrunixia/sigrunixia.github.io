@@ -30,7 +30,8 @@ Research, Engagement, Documentation and Communication
 
 `2021-2023`
 Bachelor of Individual Studies __Metropolitan State University__, St. Paul, MN
-Focus of 'The Intersection between Society, Culture, and the Individual Experience'
+
+Focus of '_The Intersection between Society, Culture, and the Individual Experience_'
 
 `2019-2021`
 Transfer Requirements **Saint Paul College**, St. Paul, MN

@@ -1,16 +1,11 @@
 {
-  "name": "Fantasy Statblocks Documentation",
+  "name": "Rebbecca Bishop's CV",
   "version": "1",
-  "description": "For Obsidian.md's Well Known Addon",
-  "repository": "https://github.com/valentine195/obsidian-5e-statblocks",
+  "description": "Rebbecca Bishop's CV",
   "license": "MIT",
-  "bugs": "https://github.com/just-the-docs/just-the-docs/issues",
   "devDependencies": {
-    "prettier": "^2.8.4",
-    "stylelint": "^15.10.1",
-    "stylelint-config-prettier-scss": "0.0.1",
-    "stylelint-config-standard-scss": "^6.1.0",
-    "stylelint-prettier": "^3.0.0"
+    "prettier": "latest",
+    "stylelint": "latest",
   },
   "scripts": {
     "test": "stylelint '**/*.scss'",

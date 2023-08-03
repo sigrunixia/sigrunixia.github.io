@@ -1,8 +1,15 @@
 {
   "name": "Rebbecca Bishop's CV",
-  "version": "0.1.0",
-  "dependencies": {
+  "version": "1",
+  "description": "Rebbecca Bishop's CV",
+  "license": "MIT",
+  "devDependencies": {
     "prettier": "latest",
-    "stylelint": "latest"
+    "stylelint": "latest",
+  },
+  "scripts": {
+    "test": "stylelint '**/*.scss'",
+    "format": "prettier --write '**/*.{scss,js,json}'",
+    "stylelint-check": "stylelint-config-prettier-check"
   }
 }

@@ -2,19 +2,13 @@
 layout: cv
 title: Rebbecca Bishop's CV
 ---
-# Rebbecca Bishop
+# Rebbecca Bishop (Sigrunixia)
 Curious. Creative. Critical Thinker.
 
 <div id="webaddress">
-<a href="rebbeccabishop@icloud.com">rebbeccabishop@icloud.com</a>
+<a href="sigrunixia@tenebrousdragon.com">sigrunixia@tenebrousdragon.com</a>
 | <a href="https://tenebrousdragon.com/home">Tenebrous Dragon; A Personal Portfolio and Analysis Webpage</a>
 </div>
-
-## Now
-
-- Beginning to re-enter the workforce after taking time away to finish my Bachelor's degree.
-- Learning CSS and Javascript, with a side hobby of Photography and Table Top Roleplaying Games.
-- Catching up on many whitepapers and articles on the topics of my research interests.
 
 ## Specialized in
 
@@ -22,7 +16,7 @@ Research, Engagement, Documentation and Communication
 
 ## Research interests
 
-- The mechanisms of labeling and othering within a society with a focus on Monster Theory and Gender Studies.
+- The mechanisms of labeling and othering within a society with a focus on [Monster Theory](https://www.jstor.org/stable/10.5749/j.ctttsq4d) and Gender Studies.
 - Conservation of plants and animals, with a focus on the impact of human activity on the environment.
 - External stress and its role in inhibiting societal movements. 
 
@@ -47,7 +41,7 @@ Paralegal Studies **Everest College**, Ontario, CA
 `2023`
 Summa Cum Laude, *Metropolitan State University*, St. Paul, MN
 
-`2022, 2023`
+`2022-2023`
 Dean's List, *Metropolitan State University*, St. Paul, MN
 
 `2019-2021`
@@ -60,6 +54,11 @@ Summa Cum Laudem, *Ashdown College of Health Science*, Redlands, CA
 Magna Cum Laudem, *Everest College*, Ontario, CA
 
 ## Occupation
+
+`2023-Present`
+Customer Experience Specialist, __Dynalist Inc (Obsidian)__ - Oakville, ON, CA
+
+I help users get the most out of Obsidian—supporting accounts, payments, and premium tools like [Sync](https://obsidian.md/sync) and [Publish](https://obsidian.md/publish). I maintain the [Obsidian Help](https://help.obsidian.md) site, moderate the [community](https://obsidian.md/community), and work closely with the team to fix issues, streamline systems, and make the user experience better all around.
 
 `2018-2022`
 Broker Coordinator, __State of Minnesota__ – MNsure Agency, St. Paul, MN

@@ -58,7 +58,7 @@ Magna Cum Laudem, *Everest College*, Ontario, CA
 `2023-Present`
 Customer Experience Specialist, __Dynalist Inc (Obsidian)__ - Oakville, ON, CA
 
-I help users get the most out of Obsidian—supporting accounts, payments, and premium tools like [Sync](https://obsidian.md/sync) and [Publish](https://obsidian.md/publish). I maintain the [Obsidian Help](https://help.obsidian.md) site, moderate the [community](https://obsidian.md/community), and work closely with the team to fix issues, streamline systems, and make the user experience better all around.
+I help users get the most out of Obsidian, supporting accounts, payments, and premium tools like [Sync](https://obsidian.md/sync) and [Publish](https://obsidian.md/publish). I maintain the [Obsidian Help](https://help.obsidian.md) site, moderate the [community](https://obsidian.md/community), and work closely with the team to fix issues, streamline systems, and make the user experience better all around.
 
 `2018-2022`
 Broker Coordinator, __State of Minnesota__ – MNsure Agency, St. Paul, MN

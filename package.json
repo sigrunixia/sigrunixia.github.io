@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "latest",
-    "stylelint": "latest",
+    "stylelint": "latest"
   },
   "scripts": {
     "test": "stylelint '**/*.scss'",

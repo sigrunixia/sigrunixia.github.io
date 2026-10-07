@@ -1,12 +1,14 @@
 :root {
-  --bg_dark2: #050608;
-  --bg: #0b0c10;
-  --bg_highlight: #262a3d;
-  --fg: #d3d8ee;
-  --fg_dark: #9399b8;
-  --comment: #6f7599;
-  --green: #5de4c7;
-  --cyan: #89ddff;
+  --bg_dark2: #0d0e10;
+  --bg: #14161b;
+  --bg_highlight: #242838;
+  --fg: #a6accd;
+  --fg_dark: #898fb3;
+  --silver: #e2e7f2;
+  --blue0: #7aa6e6;
+  --amber: #f0b04a;
+  --amber0: #e8a955;
+  --teal: #5fb8c8;
   --font-text: system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-head: Georgia, "Times New Roman", serif;
 }
@@ -24,32 +26,36 @@ body {
 #content { max-width: 46rem; margin: 0 auto; }
 
 h1, h2, h3 { font-family: var(--font-head); font-weight: 600; line-height: 1.25; }
-h1 { margin: 0; font-size: 2.25rem; color: var(--green); }
+h1 { margin: 0; font-size: 2.25rem; color: var(--blue0); }
 h2 {
   margin: 2.75rem 0 1rem;
   padding-bottom: 0.35rem;
   font-size: 1.35rem;
+  color: var(--amber);
   border-bottom: 1px solid var(--bg_highlight);
 }
-h3 { margin: 2rem 0 0.75rem; font-size: 1.1rem; color: var(--fg_dark); }
+h3 { margin: 2rem 0 0.75rem; font-size: 1.1rem; color: var(--teal); }
 
 h1 + p { margin: 0.25rem 0 1rem; color: var(--fg_dark); font-style: italic; }
 
-a { color: var(--cyan); text-decoration-color: var(--bg_highlight); text-underline-offset: 0.2em; }
-a:hover { text-decoration-color: var(--cyan); }
+a { color: var(--amber0); text-decoration-color: var(--bg_highlight); text-underline-offset: 0.2em; }
+a:hover { color: var(--amber); text-decoration-color: var(--amber); }
+
+strong { color: var(--blue0); }
+em { color: var(--amber); }
 
 /* Date ranges, written as `2021-2023` in the Markdown */
 code {
   display: block;
   margin-top: 1.5rem;
-  color: var(--comment);
+  color: var(--fg_dark);
   font: 0.85rem/1.4 ui-monospace, "SF Mono", Menlo, monospace;
 }
 
-#webaddress { color: var(--comment); font-size: 0.9rem; }
+#webaddress { color: var(--fg_dark); font-size: 0.9rem; }
 
 ul { padding-left: 1.25rem; }
-li::marker { color: var(--green); }
+li::marker { color: var(--amber); }
 
 @media (min-width: 40rem) {
   #main { padding-top: 4rem; }

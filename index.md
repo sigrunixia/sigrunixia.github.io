@@ -48,6 +48,21 @@ Owner/Operator, __Prime Relief Therapeutic Massage__, Redlands, CA
 
 In my role, I managed communication channels such as telephones, emails, and meetings to prospect clients, retain existing clients, and provide community education. I achieved a social media and email open-rate of 27.3% and a click-through-rate of 6%. Additionally, I efficiently used Quickbooks to balance income and expenses, categorized deductibles, and maintained accurate cash drawer records. I implemented a custom, automated system that enhanced productivity by 25% through streamlining intake, filing, bookkeeping, and marketing processes. Moreover, I prioritized maintaining client-therapist confidentiality in adherence to local, state, and federal laws.
 
+## Projects
+
+`2023-Present`
+**[Tenebrous Color Scheme](https://github.com/sigrunixia/Tenebrous)**, a dark color scheme built around contrast. I carried it into an [Obsidian](https://obsidian.md) theme, written in SCSS around how I use Obsidian, which is open source on [GitHub](https://github.com/sigrunixia/Tenebrous-Obsidian).
+
+`Ongoing`
+**[Tenebrous Dragon](https://tenebrousdragon.com/home)**, my personal site, published from an Obsidian vault of about 2,100 notes. It holds my essays, trip notes and reference pages, and it uses a custom theme and scripts I maintain myself.
+
+## Skills
+
+- **Support and community** - Account, payment and subscription support, community moderation, and working with a product team to fix issues.
+- **Documentation** - Help sites, training manuals, and process write-ups for staff and users.
+- **Research** - Qualitative and cultural research, with a degree focused on society, culture and the individual experience.
+- **Tools** - Obsidian, Markdown, SCSS and CSS, Git, and Microsoft CRM.
+
 ## Education
 
 `2021-2023`
@@ -80,6 +95,10 @@ Summa Cum Laudem, *Ashdown College of Health Science*, Redlands, CA
 
 `2011`
 Magna Cum Laudem, *Everest College*, Ontario, CA
+
+## Languages
+
+English, native. Modern Greek, learning, and I keep my study notes in a public vault called Scales of Insight.
 
 ## Research interests
 

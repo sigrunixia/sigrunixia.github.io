@@ -50,7 +50,7 @@ In my role, I managed communication channels such as telephones, emails, and mee
 
 ## Projects
 
-`2023-Present`
+`2026-Present`
 **[Tenebrous Color Scheme](https://github.com/sigrunixia/Tenebrous)**, a dark color scheme built around contrast. I carried it into an [Obsidian](https://obsidian.md) theme, written in SCSS around how I use Obsidian. The theme is open source on [GitHub](https://github.com/sigrunixia/Tenebrous-Obsidian).
 
 `Ongoing`

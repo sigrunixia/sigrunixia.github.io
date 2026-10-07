@@ -54,7 +54,7 @@ In my role, I managed communication channels such as telephones, emails, and mee
 **[Tenebrous Color Scheme](https://github.com/sigrunixia/Tenebrous)**, a dark color scheme built around contrast. I carried it into an [Obsidian](https://obsidian.md) theme, written in SCSS around how I use Obsidian. The theme is open source on [GitHub](https://github.com/sigrunixia/Tenebrous-Obsidian).
 
 `Ongoing`
-**[Tenebrous Dragon](https://tenebrousdragon.com/home)**, my personal site, published from an Obsidian vault of about 2,100 notes. It holds my essays, trip notes, and reference pages, and it uses a custom theme and scripts I maintain myself.
+**[Tenebrous Dragon](https://tenebrousdragon.com/home)**, a personal site published from an Obsidian vault, with a custom theme and scripts I maintain.
 
 ## Skills
 
